@@ -1,0 +1,86 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/anusha/url_shortner/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/anusha/url_shortner/app/helpers/short_urls_helper.rb": [
+        1,
+        null
+      ],
+      "/home/anusha/url_shortner/app/helpers/urls_helper.rb": [
+        1,
+        null
+      ],
+      "/home/anusha/url_shortner/app/models/url.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/anusha/url_shortner/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/anusha/url_shortner/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/home/anusha/url_shortner/app/controllers/urls_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/anusha/url_shortner/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/anusha/url_shortner/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/anusha/url_shortner/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/anusha/url_shortner/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1495796306
+  }
+}
